@@ -17,10 +17,6 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#Code-and-Model-Structure">Code and Model Structure</a></li>
     <li><a href="#Data-Preprocessing">Data Preprocessing</a></li>
-    <li><a href="#Data-Definitions">Data Definitions</a></li>
-    <li><a href="#Inference">Inference</a></li>
-    <li><a href="#Post-Inference-Data-Processing">Post Inference Data Processing</a></li>
-    <li><a href="#Contact">Contact</a></li>
   </ol>
 </details>
 
