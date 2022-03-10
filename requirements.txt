@@ -1,0 +1,17 @@
+
+google-api-core==1.24.1
+google-api-python-client==1.7.11
+google-auth==1.24.0
+google-auth-httplib2==0.0.3
+google-auth-oauthlib==0.4.2
+google-cloud==0.34.0
+google-cloud-bigquery==1.26.1
+google-cloud-bigquery-storage==1.0.0
+google-cloud-core==1.6.0
+google-cloud-monitoring==0.31.1
+google-cloud-storage==1.31.0
+google-cloud-vision==2.0.0
+google-crc32c==1.1.2
+google-pasta==0.2.0
+google-resumable-media==1.2.0
+googleapis-common-protos==1.52.0
